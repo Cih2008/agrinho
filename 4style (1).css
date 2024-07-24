@@ -1,0 +1,114 @@
+.cab{
+
+color: black;   
+background-color: rgb(171, 159, 240);
+display: flex;
+background-image: -moz-repeating-linear-gradient(rgb(116, 11, 29));
+justify-content:space-between;
+
+}
+
+.imgl{
+    max-width:200px;
+    max-height:150px;
+    width: auto;
+    height: auto;
+}
+
+.img2{
+width: 20%;
+}
+
+.img3{
+width: 20%;
+}
+
+.img4{
+width: 30%;
+}
+
+.img5{
+width: 30%;
+}
+
+.sec{
+    background-color:rgba(214, 59, 149, 0.63);
+    display: flex;
+    justify-content: space-evenly;
+    
+    }
+
+.img6{
+    width: 30%;
+    }
+
+    .img7{
+        width: 30%;
+        }
+
+        .img8{
+            width: 30%;
+            }
+
+            .sec{
+                background-color:rgba(214, 59, 149, 0.63);
+                display: flex;
+                justify-content: space-evenly;
+                
+                }
+
+            .img9{
+                width: 30%;
+                }
+
+
+                .img10{
+                    width: 30%;
+                    }
+
+
+                    .img11{
+                        width: 30%;
+                        }
+
+                        .titulo{
+                            justify-content: center;
+                            display: flex;
+                            background-color: rgb(120, 120, 196);
+                        }
+
+                        .tex{
+                            justify-content: center;
+                            display: flex;
+                            background-color: rgb(100, 100, 185);
+                        }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.in{
+    display: flex;
+    justify-content: space-between;
+}

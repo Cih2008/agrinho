@@ -1,0 +1,37 @@
+*{margin: 0%;
+ padding:15px;}
+
+ .pag{
+    justify-content: center;
+    display: flex;
+    color: rgb(166, 70, 255);
+    background-image: -moz-repeating-linear-gradient(rgb(163, 73, 163), white);
+ }
+
+ .ab{
+    justify-content: left;
+    display: flex;
+    width: 40%;
+    height: 30%;
+ }
+
+ .cd{
+    justify-content: left;
+    display: flex;
+    width: 40%;
+    height: 30%;
+ }
+
+ .ef{
+    justify-content: left;
+    display: flex;
+    width: 40%;
+    height: 30%;
+ }
+
+ .gh{
+    justify-content: left;
+    display: flex;
+    width: 40%;
+    height: 30%;
+ }

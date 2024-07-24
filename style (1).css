@@ -1,0 +1,36 @@
+.cab{
+    color:rgb(170, 31, 124);
+
+    display: flex;
+    background-image:-moz-repeating-linear-gradient(rgb(247, 148, 217), white);
+    justify-content: space-evenly;
+}
+    .sub{
+        color: rgb(0, 0, 0);
+     }
+    .titulo{ 
+       color:rgba(207, 9, 148, 0.842);
+     }
+
+     .sec{
+        background-color:rgba(214, 59, 149, 0.63);
+        display: flex;
+        justify-content: space-evenly;
+        
+        }
+
+        .texto{
+            color: rgb(0, 0, 0);
+        }
+
+        .imgl{
+            width: 25%;
+        }
+
+        .imagem2{
+            width: 40%;
+        }
+
+        .imgl3{
+            width: 40%;
+        }

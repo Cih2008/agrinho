@@ -1,0 +1,63 @@
+.cab{
+    color: rgb(0, 0, 0);
+    background-color: rgb(252, 174, 255);
+    display: flex;
+    background-image: -moz-repeating-linear-gradient(rgb(8, 8, 8));
+    justify-content:space-between;
+}
+
+
+.imgl{
+    max-width:200px;
+    max-height:150px;
+    width: auto;
+    height: auto;
+}
+            .img3{
+                width:15%;
+            }
+            .img4{
+                width:15%;
+            }
+            .img5{
+                width: 10%;
+            }
+
+        .img6{
+            width: 15%;
+        }
+
+        .img7{
+            width: 10%;
+        }
+
+        .img8{
+            width: 15%;
+        }
+
+        .img9{
+            width: 15%;
+        }
+
+
+        .img10{
+            width: 15%;
+        }
+
+        .img11{
+            width: 15%;
+        }
+
+        .img12{
+            width: 15%;
+        }
+    
+
+
+
+
+
+
+
+
+
